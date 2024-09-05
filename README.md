@@ -85,7 +85,3 @@
 
 ###
 
-### <img src="https://raw.githubusercontent.com/brysonurie/brysonurie/output/snake.svg" alt="Snake animation" />
-
-###
-
