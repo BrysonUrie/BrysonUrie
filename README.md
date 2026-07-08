@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Studied Computer Science at  Weber State University<br>📚 I'm currently learning HMTX and GoLang<br>🎯 Goals: Contribute to more open-source projects!</p>
+<p align="left">✨ Studied Computer Science at  Weber State University<br>🎯 Goals: Contribute to more open-source projects!</p>
 
 ###
 
